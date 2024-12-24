@@ -9,6 +9,10 @@ html {
     box-sizing: border-box;
 }
 
+p {
+    margin: 0;
+}
+
 .grid {
     width: 1200px;
     max-width: 100%;
