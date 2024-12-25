@@ -140,11 +140,11 @@
     }
 
     .content__summary__para:nth-child(2) {
-        background-color: lightgreen;
+        background-color: #FDFD96;
     }
 
     .content__summary__para:last-child {
-        background-color: lightskyblue;
+        background-color: lightgreen;
     }
 
     .content__summary__keywords-list {
@@ -161,7 +161,7 @@
         width: 20vw;
         height: 16vw;
         border-radius: 50%;
-        background-color: #FDFD96;
+        background-color: lightskyblue;
         font-size: 1.4vw;
         line-height: 1.4vw;
         text-wrap: wrap;
