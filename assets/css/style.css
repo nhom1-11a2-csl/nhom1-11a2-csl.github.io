@@ -91,6 +91,7 @@
     }
 
     .content__home__title {
+        background-color: rgba(255, 255, 255, .2);
         margin-top: 0;
         display: flex;
         align-items: center;
@@ -139,11 +140,11 @@
     }
 
     .content__summary__para:nth-child(2) {
-        background-color: lightgoldenrodyellow;
+        background-color: lightgreen;
     }
 
     .content__summary__para:last-child {
-        background-color: lightgreen;
+        background-color: lightskyblue;
     }
 
     .content__summary__keywords-list {
@@ -160,7 +161,7 @@
         width: 20vw;
         height: 16vw;
         border-radius: 50%;
-        background-color: lightskyblue;
+        background-color: #FDFD96;
         font-size: 1.4vw;
         line-height: 1.4vw;
         text-wrap: wrap;
